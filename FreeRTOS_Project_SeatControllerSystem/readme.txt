@@ -1,0 +1,3 @@
+- Student Example
+- What if I want to send 2 pieces of information instead of 1 using task parameters? This examples demonstrates this idea by sending a structure containing the string to be printed in addition to the led that will be toggled 
+- Note that the leds will be toggled oppositely by initializing them one ON and one OFF
